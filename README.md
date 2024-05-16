@@ -1,7 +1,8 @@
 # Некоторые скрины из бота :D
 ![Screenshot_20240516-231258](https://github.com/Hlebyshek123/tg_link_bot/assets/169852726/17519c30-5f87-4975-807e-fd6398666f60)
 ![Screenshot_20240516-232059](https://github.com/Hlebyshek123/tg_link_bot/assets/169852726/995940d2-dd5d-484f-8399-1f69df5afced)
-![Screenshot_20240516-232059](https://github.com/Hlebyshek123/tg_link_bot/assets/169852726/3b18f58f-15ee-4984-bb59-d67c5932f7f2)
+![Screenshot_20240516-231320](https://github.com/Hlebyshek123/tg_link_bot/assets/169852726/695215f5-e9d7-4dff-a31a-d682ac429076)
+
 
 
 # Telegram бот привязки
