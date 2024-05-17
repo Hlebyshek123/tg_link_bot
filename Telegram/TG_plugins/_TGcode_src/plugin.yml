@@ -1,0 +1,16 @@
+name: TGCode
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+author: MeowBot_and_Hlebyshek
+main: TGCode\TGCodePlugin
+description: Plugin for generating Telegram codes for players.
+commands:
+  tgcode:
+    description: Generate a Telegram code
+    usage: /tgcode
+  tgdelete:
+    description: delete a Telegram code
+    usage: /tgdelete
+    tginfo:
+    description: telegram link info
+    usage: /tginfo
